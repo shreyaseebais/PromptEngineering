@@ -281,12 +281,12 @@ I am currently working on a software development project that requires parsing b
 Can you provide suggestions on the best tools and libraries to use for parsing these files, as well as any potential errors or issues that may arise during the process? Additionally, could you provide sample code or pseudo-code to demonstrate how to correctly parse and extract the necessary information from these files?
 
 
-### Tokenizer
+### #3 Tokenizer
 go to /tokenizer
 post something, all gpt versions will show you the tokens made.
 
 
-### AI Hallucinations
+### #4 AI Hallucinations
 AI hallucination refers to situations where an AI system (like ChatGPT or image generators) produces output that sounds confident but is factually incorrect, fabricated, or not grounded in its training data.
 
 How to Reduce Hallucinations
@@ -300,9 +300,62 @@ Example prompt:
 
 “If you are unsure, do not guess. Only answer using verified facts.”
 
+### #5 🌐 What Are Chat Models?
+
+Chat Models are optimized for:
+
+Natural language conversation
+
+Customer support interactions
+
+Writing content (emails, blogs, code comments)
+
+Quick question-answering
+
+They focus on fluency, context understanding, and human-like conversation.
+They may not always deeply analyze logic — and can sometimes hallucinate when uncertain.
+
+Goal: Provide useful conversational responses fast.
+
+### #6 🧠 What Are Reasoning Models?
+
+Reasoning Models are built to:
+
+Solve logic-based tasks
+
+Perform step-by-step analysis
+
+Reduce assumptions and hallucinations
+
+Show transparent reasoning and verification
+
+Typical use cases:
+
+Math and logic problems
+
+Multi-step planning (like trip or architecture planning)
+
+Scientific + technical accuracy
+
+Legal or financial policy reasoning
+
+They are slower but more accurate and reliable when correctness matters.
+
+Goal: Think first → Answer later.
 
 
+###  📊 Comparison Chat Models vs Reasoning Models 
+| Feature               | Chat Models               | Reasoning Models                           |
+| --------------------- | ------------------------- | ------------------------------------------ |
+| Primary Focus         | Conversational AI         | Logical, structured reasoning              |
+| Accuracy              | Good, but may hallucinate | Higher accuracy, fewer hallucinations      |
+| Speed                 | Faster responses          | Slight delay (thinking)                    |
+| Explainability        | Limited                   | Strong step-by-step clarity                |
+| Best For              | Emails, chatbots, content | Math, planning, architecture, coding logic |
+| Training Optimization | Language fluency          | Cognitive reasoning + validation           |
 
+
+### 
 
 
 
